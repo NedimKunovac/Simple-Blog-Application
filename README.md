@@ -33,7 +33,7 @@ A full-stack blog application built with **Laravel 11**, **PostgreSQL**, **Inert
 
 ```bash
 # 1. Clone & enter repository
-git clone [https://github.com/NedimKunovac/Simple-Blog-Application.git](https://github.com/NedimKunovac/Simple-Blog-Application.git)
+git clone https://github.com/NedimKunovac/Simple-Blog-Application.git
 cd Simple-Blog-Application
 
 # 2. Install dependencies
